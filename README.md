@@ -22,4 +22,10 @@ The aim of this is to educate employees on how to identify phishing emails and p
 - Professional report writing
 - Threat explanation in simple business language
 
-## Repository Structure
+## Conclusion
+Phishing remains one of the biggest cyber threats today. Regular awareness and vigilance can greatly reduce the success rate of these attacks.
+
+---
+
+**Completed as part of Future Interns Cyber Security Track**  
+**Date:** 7th May 2026
