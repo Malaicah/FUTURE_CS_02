@@ -7,7 +7,7 @@ Phishing Email Detection and Security Awareness Report as part of Future Interns
 The aim of this is to educate employees on how to identify phishing emails and protect themselves from phishing attacks.
 
 ## Report
-**[Download Full Phishing Awareness Report](./Phishing_Awareness_Report.pdf)**
+**[Download Full Phishing Email Detection and Awareness Report](./Phishing_Awareness_Report.pdf)**
 
 ## Key Topics Covered
 - What is Phishing and why it is dangerous
